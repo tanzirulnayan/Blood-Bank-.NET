@@ -1,0 +1,22 @@
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.DataAccess.dll
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.DataAccess.pdb
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.Entities.dll
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.Framework.dll
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.Entities.pdb
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.Framework.pdb
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\obj\Debug\BloodBankDbConnection.DataAccess.csprojAssemblyReference.cache
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\obj\Debug\BloodBankDbConnection.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\obj\Debug\BloodBankDbConnection.DataAccess.csproj.CopyComplete
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\obj\Debug\BloodBankDbConnection.DataAccess.dll
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.DataAccess\obj\Debug\BloodBankDbConnection.DataAccess.pdb
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.DataAccess.dll
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.DataAccess.pdb
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.Entities.dll
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.Framework.dll
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.Entities.pdb
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\bin\Debug\BloodBankDbConnection.Framework.pdb
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\obj\Debug\BloodBankDbConnection.DataAccess.csprojAssemblyReference.cache
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\obj\Debug\BloodBankDbConnection.DataAccess.csproj.CoreCompileInputs.cache
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\obj\Debug\BloodBankDbConnection.DataAccess.csproj.CopyComplete
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\obj\Debug\BloodBankDbConnection.DataAccess.dll
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.DataAccess\obj\Debug\BloodBankDbConnection.DataAccess.pdb

@@ -1,0 +1,12 @@
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Entities\bin\Debug\BloodBankDbConnection.Entities.dll
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Entities\bin\Debug\BloodBankDbConnection.Entities.pdb
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Entities\obj\Debug\BloodBankDbConnection.Entities.csprojAssemblyReference.cache
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Entities\obj\Debug\BloodBankDbConnection.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Entities\obj\Debug\BloodBankDbConnection.Entities.dll
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Entities\obj\Debug\BloodBankDbConnection.Entities.pdb
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Entities\bin\Debug\BloodBankDbConnection.Entities.dll
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Entities\bin\Debug\BloodBankDbConnection.Entities.pdb
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Entities\obj\Debug\BloodBankDbConnection.Entities.csprojAssemblyReference.cache
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Entities\obj\Debug\BloodBankDbConnection.Entities.csproj.CoreCompileInputs.cache
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Entities\obj\Debug\BloodBankDbConnection.Entities.dll
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Entities\obj\Debug\BloodBankDbConnection.Entities.pdb

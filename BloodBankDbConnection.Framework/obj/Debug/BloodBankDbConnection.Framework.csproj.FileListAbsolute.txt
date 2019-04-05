@@ -1,0 +1,12 @@
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Framework\bin\Debug\BloodBankDbConnection.Framework.dll
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Framework\bin\Debug\BloodBankDbConnection.Framework.pdb
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Framework\obj\Debug\BloodBankDbConnection.Framework.csprojAssemblyReference.cache
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Framework\obj\Debug\BloodBankDbConnection.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Framework\obj\Debug\BloodBankDbConnection.Framework.dll
+C:\Users\Tanzirul Haque Nayan\Desktop\OOP2\Blood Bank\BloodBankDbConnection.Framework\obj\Debug\BloodBankDbConnection.Framework.pdb
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Framework\bin\Debug\BloodBankDbConnection.Framework.dll
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Framework\bin\Debug\BloodBankDbConnection.Framework.pdb
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Framework\obj\Debug\BloodBankDbConnection.Framework.csprojAssemblyReference.cache
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Framework\obj\Debug\BloodBankDbConnection.Framework.csproj.CoreCompileInputs.cache
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Framework\obj\Debug\BloodBankDbConnection.Framework.dll
+D:\GitHub\Blood-Bank-.NET\BloodBankDbConnection.Framework\obj\Debug\BloodBankDbConnection.Framework.pdb

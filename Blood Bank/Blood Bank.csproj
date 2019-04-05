@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE09D915-D1A3-44C1-B36C-FB215A87CAD8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Blood_Bank</RootNamespace>
+    <AssemblyName>Blood Bank</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BecomeDonorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BecomeDonorForm.Designer.cs">
+      <DependentUpon>BecomeDonorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DonorHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonorHomeForm.Designer.cs">
+      <DependentUpon>DonorHomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="idVal.cs" />
+    <Compile Include="ModeratorHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModeratorHomeForm.Designer.cs">
+      <DependentUpon>ModeratorHomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profile_D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profile_D.Designer.cs">
+      <DependentUpon>Profile_D.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profile_M.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profile_M.Designer.cs">
+      <DependentUpon>Profile_M.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profile_N.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profile_N.Designer.cs">
+      <DependentUpon>Profile_N.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignUpDonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUpDonor.Designer.cs">
+      <DependentUpon>SignUpDonor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUpForm.Designer.cs">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUpModerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUpModerator.Designer.cs">
+      <DependentUpon>SignUpModerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUpSuccessfull.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUpSuccessfull.Designer.cs">
+      <DependentUpon>SignUpSuccessfull.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserHomeForm.Designer.cs">
+      <DependentUpon>UserHomeForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BecomeDonorForm.resx">
+      <DependentUpon>BecomeDonorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonorHomeForm.resx">
+      <DependentUpon>DonorHomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModeratorHomeForm.resx">
+      <DependentUpon>ModeratorHomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile_D.resx">
+      <DependentUpon>Profile_D.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile_M.resx">
+      <DependentUpon>Profile_M.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile_N.resx">
+      <DependentUpon>Profile_N.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SignUpDonor.resx">
+      <DependentUpon>SignUpDonor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUpForm.resx">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUpModerator.resx">
+      <DependentUpon>SignUpModerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUpSuccessfull.resx">
+      <DependentUpon>SignUpSuccessfull.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserHomeForm.resx">
+      <DependentUpon>UserHomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bloodbank_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-switch-off-shyt-down-computer-button-387460d67321b56a-512x512-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024px-Circle_arrow_left_font_awesome.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-157493_640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\active.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BloodBankDbConnection.DataAccess\BloodBankDbConnection.DataAccess.csproj">
+      <Project>{d6f39fb5-aa66-40bd-9fbe-4aefa9e0d9f3}</Project>
+      <Name>BloodBankDbConnection.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BloodBankDbConnection.Entities\BloodBankDbConnection.Entities.csproj">
+      <Project>{5c7007e0-3403-4cde-908e-ae88892c7877}</Project>
+      <Name>BloodBankDbConnection.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BloodBankDbConnection.Framework\BloodBankDbConnection.Framework.csproj">
+      <Project>{e1ea2401-6216-4ba6-b726-1bd528e5ac6b}</Project>
+      <Name>BloodBankDbConnection.Framework</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1st-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchblood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\simple-gray-background-8449-8772-hd-wallpapers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgound.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
